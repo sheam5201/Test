@@ -1,0 +1,50 @@
+body {
+  background-color: powderblue;
+}
+
+table{
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 2px solid #000;
+  border-collapse: collapse;
+  border-color: brown;
+}
+th,
+td {
+  padding: 15px;
+  text-align: center;
+}
+.vonome {
+  background-color: red;
+  padding: 20px;
+}
+
+.div-five {
+  background-color: skyblue;
+  font-size: medium;
+  color: #000;
+  height: 500px;
+  padding: 5px 15px;
+}
+
+.main-food-div{
+  display: flex;
+  margin: 7px;
+  gap: 10px;
+  align-items:center;
+}
+.main-food-div-1{
+  display: flex;
+  margin: 7px;
+  align-items: center;
+  gap: 10px;
+}
+.main-food-div-2{
+  display: flex;
+  margin:7px;
+  align-items: center;
+  gap: 10px;
+}
